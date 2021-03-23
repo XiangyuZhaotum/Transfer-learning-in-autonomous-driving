@@ -1,0 +1,16 @@
+classes= 10
+train_daytime_city_street=data/custom/clusters/train_daytime_clear_city_street.txt
+train_daytime_highway=data/custom/clusters/train_daytime_clear_highway.txt
+train_daytime_residential=data/custom/clusters/train_daytime_clear_residential.txt
+
+valid_daytime=data/custom/clusters/valid_daytime_clear_cluster.txt
+test_daytime=data/custom/clusters/test_daytime_clear_cluster.txt
+
+train_night_city_street=data/custom/clusters/train_dusk_clear_city_street.txt
+train_night_highway=data/custom/clusters/train_dusk_clear_highway.txt
+train_night_residential=data/custom/clusters/train_dusk_clear_residential.txt
+
+valid_night=data/custom/clusters/valid_dusk_clear_cluster.txt
+test_night=data/custom/clusters/test_dusk_clear_cluster.txt
+
+names=data/custom/classes.names

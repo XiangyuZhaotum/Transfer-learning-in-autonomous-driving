@@ -1,0 +1,7 @@
+classes=5
+train=data/custom/train_daytime_clear.txt
+valid=data/custom/valid_daytime_clear.txt
+test=data/custom/test_daytime_clear.txt
+
+
+names=data/custom/classes.names

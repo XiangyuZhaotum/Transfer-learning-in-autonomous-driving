@@ -1,0 +1,19 @@
+classes= 5
+train_fake_night_city_street=data/custom/train_fakenight_clear_city_street.txt
+train_fake_night_highway=data/custom/train_fakenight_clear_highway.txt
+train_fake_night_residential=data/custom/train_fakenight_clear_residential.txt
+
+valid_fake_night=data/custom/valid_fakenight_clear_cluster.txt
+test_fake_night=data/custom/test_fakenight_clear_cluster.txt
+
+train_night_city_street=data/custom/train_night_clear_city_street.txt
+train_night_highway=data/custom/train_night_clear_highway.txt
+train_night_residential=data/custom/train_night_clear_residential.txt
+
+valid_night=data/custom/valid_night_clear_cluster.txt
+test_night=data/custom/test_night_clear_cluster.txt
+
+valid_daytime=data/custom/valid_daytime_clear_cluster.txt
+test_daytime=data/custom/test_daytime_clear_cluster.txt
+
+names=data/custom/classes.names

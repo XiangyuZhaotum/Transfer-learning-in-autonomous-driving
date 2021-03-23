@@ -1,0 +1,10 @@
+classes= 10
+train_daytime=data/custom/train_daytime_clear.txt
+valid_daytime=data/custom/valid_daytime_clear.txt
+test_daytime=data/custom/test_daytime_clear.txt
+
+train_night=data/custom/train_night_clear.txt
+valid_night=data/custom/valid_night_clear.txt
+test_night=data/custom/test_night_clear.txt
+
+names=data/custom/classes.names
