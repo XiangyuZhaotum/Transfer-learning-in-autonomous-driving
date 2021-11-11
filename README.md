@@ -60,11 +60,11 @@ DANN has been implemented in 3 modularizations on YOLOv3 and tiny-YOLO.
 
 Detection before DANN
 
-![](IMG/DANN1.jpg)
+![](IMG/baseline1.jpg)
 
 Detection after DANN
 
-![](IMG/DANN2.jpg)
+![](IMG/DANN1.jpg)
 
 ```sh
 cd DANN
